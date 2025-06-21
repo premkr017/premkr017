@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @premkr017
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Prem Kumar
 
-<!---
-premkr017/premkr017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎨 A passionate self-taught **Graphic Designer** and **Web Developer** from Bihar, India.  
+🚀 Currently learning ethical hacking & working on building my digital portfolio.
+
+## 👀 I’m interested in:
+- Web development (HTML, CSS, JS, PHP)
+- Graphic design (Canva, Photoshop)
+- Cybersecurity & ethical hacking
+
+## 🌱 I’m currently learning:
+- PHP, Python
+- Git & GitHub
+- Kali Linux tools (Nmap, Wireshark)
+
+## 💞️ I’m looking to collaborate on:
+- Simple website projects
+- Open-source designs
+- Web tools for students & small businesses
+
+## 📫 How to reach me:
+- Email: itstherocket83@gmail.com
+- Phone: +91 73230 78109
+- Portfolio: [prementerprises.github.io](#)
