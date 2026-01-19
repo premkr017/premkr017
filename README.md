@@ -35,7 +35,7 @@ I am a self-taught and highly motivated **Graphic Designer and Web Developer** w
 - HTML  
 - CSS  
 - JavaScript (Basic)  
-- PHP (Basic)  
+- PHP (Intermediate)  
 - Google Sites  
 
 ### 🖥️ IT & Programming
